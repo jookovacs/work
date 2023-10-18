@@ -1,1 +1,8 @@
 abcdx
+work
+
+
+git remote set-url origin https://<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>@github.com:jookovacs/work.git
+
+
+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
